@@ -1,0 +1,508 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "calculator_11.apk": {
+    "hash": "c65d517c86247b1e37da214222fc0f3f92f915ea9ad89bee072492ac59a815f3",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.calculator2",
+    "versionCode": 30,
+    "name": "Calculator",
+    "versionName": "11",
+    "minSdkVersion": 30,
+    "targetSdkVersion": 30,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 1156487,
+    "apkName": "calculator_11.apk",
+    "added": 1697692494.55494
+  },
+  "calculator_13.apk": {
+    "hash": "c3fff4bb1f03a357c56e2bf645b00adc958f962256cd8afe8e0a09d869ff763e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.android.calculator2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.calculator2",
+    "versionCode": 33,
+    "name": "Calculator",
+    "versionName": "13",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 1039952,
+    "apkName": "calculator_13.apk",
+    "added": 1697692495.099997
+  },
+  "calendar_11.apk": {
+    "hash": "85ccbc5cdd6642e60d2cd10a364271904ca48ad4ec6ecced08518ef8807da520",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.etar",
+    "versionCode": 30,
+    "name": "Calendar",
+    "versionName": "11",
+    "minSdkVersion": 30,
+    "targetSdkVersion": 30,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 5434858,
+    "apkName": "calendar_11.apk",
+    "added": 1697692496.255428
+  },
+  "calendar_13.apk": {
+    "hash": "bf6356da4e772b5f5d1a06a964c4d43b34348105729fc1d7195a5fc2fe0bd646",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_SYNC_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "ws.xsoh.etar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.etar",
+    "versionCode": 33,
+    "name": "Calendar",
+    "versionName": "13",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 6176713,
+    "apkName": "calendar_13.apk",
+    "added": 1697692497.626387
+  },
+  "clock_11.apk": {
+    "hash": "fd7b25c5dc04fd264c3923790421c3b3b1b37f1be8d181806cc3455591893a68",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.DISABLE_KEYGUARD",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "org.codeaurora.permission.POWER_OFF_ALARM",
+        null
+      ],
+      [
+        "android.permission.WRITE_SETTINGS",
+        19
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        22
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.deskclock",
+    "versionCode": 30,
+    "name": "Clock",
+    "versionName": "11",
+    "minSdkVersion": 30,
+    "targetSdkVersion": 29,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 6020664,
+    "apkName": "clock_11.apk",
+    "added": 1697692499.261479
+  },
+  "clock_13.apk": {
+    "hash": "47013407f0b6d20045662261c90b5060f14a4dcd5d863e8eab9ff54fb59aa1e3",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.DISABLE_KEYGUARD",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        32
+      ],
+      [
+        "android.permission.USE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "org.codeaurora.permission.POWER_OFF_ALARM",
+        null
+      ],
+      [
+        "com.android.deskclock.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.android.deskclock",
+    "versionCode": 33,
+    "name": "Clock",
+    "versionName": "13",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 7391520,
+    "apkName": "clock_13.apk",
+    "added": 1697692501.210972
+  },
+  "magicearth.apk": {
+    "hash": "fc84015dd9ff71d9c54d82628365a99c69436e84f78f9a625bcd2c988816d585",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_BACKGROUND_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.WRITE_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.generalmagic.magicearth",
+    "versionCode": 2022112533,
+    "name": "Magic Earth",
+    "versionName": "7.1.22.43.540E50C8.FEC3AA63",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "3e77a106f62c61baf5ad70e2e35dd311",
+    "signer": "fa91bd3a8bfa2b03bda48422b238d584f23921154a5279e721f2f90a74d38806",
+    "size": 52266545,
+    "apkName": "magicearth.apk",
+    "added": 1697692504.717906
+  },
+  "recorder_11.apk": {
+    "hash": "7fb6c37b3f762f8e00c8fddecadf02121dfe2ae6aa3cd077372cde74f38f31d7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.recorder",
+    "versionCode": 30,
+    "name": "Recorder",
+    "versionName": "11",
+    "minSdkVersion": 30,
+    "targetSdkVersion": 30,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 2513143,
+    "apkName": "recorder_11.apk",
+    "added": 1697692505.277382
+  },
+  "recorder_13.apk": {
+    "hash": "4fc49f79a7a3e76308d3067aaca44c989cc8ad861c0558668d997d9725732fc4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "org.lineageos.recorder.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "org.lineageos.recorder",
+    "versionCode": 33,
+    "name": "Recorder",
+    "versionName": "13",
+    "minSdkVersion": 33,
+    "targetSdkVersion": 33,
+    "sig": "6a8414fff47e41744978b565840ed4bd",
+    "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
+    "size": 3528907,
+    "apkName": "recorder_13.apk",
+    "added": 1697692506.076309
+  }
+}
