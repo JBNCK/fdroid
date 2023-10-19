@@ -504,5 +504,598 @@
     "size": 3528907,
     "apkName": "recorder_13.apk",
     "added": 1697692506.076309
+  },
+  "deezer.apk": {
+    "hash": "53565e85d02f944e0ab8534a67370f014c70a2337827e347ae6d432a26c92475",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.deezer.permission.account",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "android.permission.DISABLE_KEYGUARD",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.GET_TASKS",
+        null
+      ],
+      [
+        "com.nokia.pushnotifications.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.USE_CREDENTIALS",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        30
+      ],
+      [
+        "android.permission.BLUETOOTH_ADMIN",
+        30
+      ],
+      [
+        "com.sonymobile.media.permission.TILES_ACCESS",
+        null
+      ],
+      [
+        "pantheon.themis.READ_PROVIDER_PERMISSION",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "com.adjust.preinstall.READ_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.REORDER_TASKS",
+        null
+      ],
+      [
+        "deezer.android.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/launcher_ic_app.png",
+      "160": "res/mipmap-mdpi-v4/launcher_ic_app.png",
+      "320": "res/mipmap-xhdpi-v4/launcher_ic_app.png",
+      "480": "res/mipmap-xxhdpi-v4/launcher_ic_app.png",
+      "640": "res/mipmap-xxxhdpi-v4/launcher_ic_app.png",
+      "-1": "res/mipmap-mdpi-v4/launcher_ic_app.png"
+    },
+    "icons": {
+      "640": "deezer.android.app.7010405.png",
+      "480": "deezer.android.app.7010405.png",
+      "320": "deezer.android.app.7010405.png",
+      "240": "deezer.android.app.7010405.png",
+      "160": "deezer.android.app.7010405.png",
+      "0": "deezer.android.app.7010405.png"
+    },
+    "antiFeatures": [],
+    "packageName": "deezer.android.app",
+    "versionCode": 7010405,
+    "name": "Deezer",
+    "versionName": "7.1.4.88",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "1357f87d93465a575d6819b054da0997",
+    "signer": "51a891a6c5d17b4e36a6f46bab675c1cae786a5af06f51d0105dab7ec6a94516",
+    "size": 44107164,
+    "apkName": "deezer.apk",
+    "icon": "deezer.android.app.7010405.png",
+    "added": 1697693588.751112
+  },
+  "gallerygo.apk": {
+    "hash": "4a59bdd9ea438d00b2d2759471b4cdd7988c661de03ab66dbe47c126ce4e7108",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VIDEO",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.GET_PACKAGE_SIZE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.SET_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.ACCESS_MEDIA_LOCATION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.google.android.apps.photosgo",
+    "versionCode": 12250740,
+    "name": "Gallery",
+    "versionName": "1.9.0.473991075 release",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "2ec5114d488a7b8371cda82e89fc4a72",
+    "signer": "b62cf0900cf90badcac00c3c9f7a4fb822c805ec9ca2fc31a6b338af5eef5a88",
+    "size": 13145549,
+    "apkName": "gallerygo.apk",
+    "added": 1697693590.585942
+  },
+  "gboard_lite.apk": {
+    "hash": "a95d0e2ec3e71b89e6dac1842b3e96dbdd22de4ff728e88b800f0059e5c5cec7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_USER_DICTIONARY",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_USER_DICTIONARY",
+        null
+      ],
+      [
+        "android.permission.GET_PACKAGE_SIZE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "com.bitstrips.imoji.provider.READ",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [
+      [
+        "android.permission.READ_MEDIA_IMAGES",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.INTERACT_ACROSS_PROFILES",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ]
+    ],
+    "features": [
+      "android.hardware.ram.low",
+      "android.hardware.faketouch"
+    ],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.google.android.inputmethod.latin",
+    "versionCode": 123843950,
+    "name": "Gboard",
+    "versionName": "13.4.07.559388404-lite_release-arm64-v8a",
+    "minSdkVersion": 27,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "d91564be0d13dcff260fe019eeea8cd8",
+    "signer": "f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83",
+    "size": 43986751,
+    "apkName": "gboard_lite.apk",
+    "added": 1697693597.733186
+  },
+  "googltts.apk": {
+    "hash": "26b4c382d88f0044658173ec185f73b760076a5136c767f7bdfdb6db6fd3a0b5",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.GET_PACKAGE_SIZE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.UPDATE_APP_OPS_STATS",
+        null
+      ],
+      [
+        "android.permission.START_ACTIVITIES_FROM_BACKGROUND",
+        null
+      ],
+      [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.google.android.tts",
+    "versionCode": 210446389,
+    "name": "Speech Recognition and Synthesis from Google",
+    "versionName": "googletts.google-speech-apk_20230904.02_p3.570190551",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "d91564be0d13dcff260fe019eeea8cd8",
+    "signer": "f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83",
+    "size": 74576192,
+    "apkName": "googltts.apk",
+    "added": 1697693601.177274
+  },
+  "spushtan.apk": {
+    "hash": "b32f5e40bc5957beb3eb5b78d511ebfb7ae384f5ca07a34e52eda93131d3a1dd",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.starfinanz.mobile.android.sparkasse.permission.PUSHTAN",
+        null
+      ],
+      [
+        "com.starfinanz.mobile.android.invest.permission.PUSHTAN",
+        null
+      ],
+      [
+        "com.starfinanz.mobile.android.sbusiness.permission.PUSHTAN",
+        null
+      ],
+      [
+        "com.starfinanz.mobile.android.sparkasse.permission.EXCHANGE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.REORDER_TASKS",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.starfinanz.mobile.android.pushtan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.starfinanz.mobile.android.pushtan",
+    "versionCode": 30106,
+    "name": "S-pushTAN",
+    "versionName": "4.3.0",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "d8f1350bf86e95889e8e0f2170ca9f72",
+    "signer": "4853eb524cdf4a22eb41947b0d3f49f02f9cf30042880ef6298547922e3ae9dd",
+    "size": 33645424,
+    "apkName": "spushtan.apk",
+    "added": 1697693603.93752
+  },
+  "wavelet.apk": {
+    "hash": "cfe025bb2bf54301d7077f22b04aa16dc47b02c3d084183ba70d69a732577dda",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.DUMP",
+        null
+      ],
+      [
+        "com.pittvandewitt.wavelet.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.pittvandewitt.wavelet",
+    "versionCode": 2150,
+    "name": "Wavelet",
+    "versionName": "23.09",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "19c4430147e111ec6a6c506ba3d688f4",
+    "signer": "689226168281ab2422c9eb506cbd2c3a6c3a9a5f51aec123c94193d1c587e049",
+    "size": 4743950,
+    "apkName": "wavelet.apk",
+    "added": 1697693605.091415
   }
 }
